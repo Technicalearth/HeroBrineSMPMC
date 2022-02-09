@@ -110,20 +110,6 @@ header ul li a:hover {
     color: white;
 }
 
-.footer-home {
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding-top: 3px;
-}
-
-.footer-about {
-    background-color: black;
-    color: white;
-    padding-top: 20px;
-    text-align: center;
-}
-
 .help {
     height: 100%;
     width: 100%;
@@ -138,13 +124,6 @@ header ul li a:hover {
     color: white;
 }
 
-.footer-help {
-    background-color: black;
-    color: white;
-    padding-top: 11px;
-    text-align: center;
-}
-
 .contact {
     height: 100%;
     width: 100%;
@@ -157,11 +136,4 @@ header ul li a:hover {
     text-decoration: bold;
     padding-top: 100px;
     color: white;
-}
-
-.footer-contact {
-    background-color: black;
-    color: white;
-    padding-top: 17px;
-    text-align: center;
 }
